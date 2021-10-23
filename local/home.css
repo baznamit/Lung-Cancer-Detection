@@ -1,0 +1,23 @@
+.cont_img_container
+{
+    display: inline-block;
+    width: 100%;
+    height: 400px;
+        background: rgb(9, 60, 117);
+}
+
+#cont_img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.text
+{
+    /* background-color: #759eb6; */
+    font-size: large;
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right:30px ;
+}
