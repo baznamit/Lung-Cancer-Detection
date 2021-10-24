@@ -1,5 +1,5 @@
 body {
-    
+
     background-image: url('../img/soft-grid.jpg');
     background-color: #A2D2FF;
     font-family: 'Work Sans', sans-serif;
@@ -30,11 +30,10 @@ hr {
 
 button {
 background-color:#FF00E4;
-border: #2e6da4; 
+border: #2e6da4;
 font-family: 'Work Sans', sans-serif;
-font-size: 15px; 
-color: #fff; 
-letter-spacing: 1px; 
+color: #fff;
+letter-spacing: 1px;
 padding: 8px 12px;
 font-size: 18px;
 font-weight: normal;
@@ -42,4 +41,20 @@ border-radius: 25px;
 line-height: 1.5;
 text-decoration:none;
 margin: 15px;
+}
+
+.pic1 {
+  position: absolute;
+  left:200px;
+  top:250px;
+  height:250px;
+  width:400px;
+}
+
+.pic2 {
+  position: absolute;
+  right:200px;
+  top:600px;
+  height:250px;
+  width:400px;
 }
